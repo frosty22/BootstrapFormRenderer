@@ -1,7 +1,7 @@
 {
-	"name": "kdyby/bootstrap-form-renderer",
+	"name": "frosty22/bootstrap-form-renderer",
 	"type": "library",
-	"description": "Nette forms renderer with bootstrap",
+	"description": "Nette forms renderer with bootstrap v3",
 	"keywords": ["nette", "kdyby", "forms", "bootstrap"],
 	"homepage": "http://kdyby.org",
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
@@ -9,6 +9,10 @@
 		{
 			"name": "Filip Procházka",
 			"homepage": "http://filip-prochazka.com"
+		},
+		{
+			"name": "Vít Ledvinka",
+			"homepage": "http://www.frosty22.cz"
 		}
 	],
 	"support": {
