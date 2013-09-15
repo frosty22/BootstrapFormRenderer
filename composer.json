@@ -2,8 +2,7 @@
 	"name": "frosty22/bootstrap-form-renderer",
 	"type": "library",
 	"description": "Nette forms renderer with bootstrap v3",
-	"keywords": ["nette", "kdyby", "forms", "bootstrap"],
-	"homepage": "http://kdyby.org",
+	"keywords": ["nette", "forms", "bootstrap"],
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
 	"authors": [
 		{
@@ -15,10 +14,6 @@
 			"homepage": "http://www.frosty22.cz"
 		}
 	],
-	"support": {
-		"email": "filip@prochazka.su",
-		"issues": "https://github.com/kdyby/BootstrapFormRenderer/issues"
-	},
 	"require": {
 		"nette/nette": "@dev"
 	},
